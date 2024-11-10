@@ -206,13 +206,14 @@ header{
 }
 .email{
     border: 1px solid #E6E6E6;
-    border-radius: 8px 1px 8px 1px;
+    padding: 10px;
 }
 .button{
-    border-radius: 1px 8px 8px 1px;
     border: 1px solid #E6E6E6;
     background-color: #23A6F0;
     color: white;
+    padding: 10px;
+    border: 1px solid #23A6F0;
 }
 footer{
     background-color: #252B42;
